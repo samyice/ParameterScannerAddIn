@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Parameter Scanner Add in</Name>
+		<Assembly>ParameterScannerAddIn.dll</Assembly>
+		<AddInId>776FEB5A-F43C-459D-B9F3-6266A2202A99</AddInId>
+		<FullClassName>ParameterScannerAddIn.App</FullClassName>
+		<Text>Open Scanner</Text>
+		<Description>Parameter Scanner WPF</Description>
+		<VendorId>SC.</VendorId>
+		<VendorDescription>SC</VendorDescription>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+	</AddIn>
+</RevitAddIns>
+	
